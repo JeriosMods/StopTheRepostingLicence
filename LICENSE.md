@@ -1,0 +1,31 @@
+# StopTheRepostingLicence
+
+Copyright (c) 2022 Copyright Holder
+
+This Licence follows the following conditions:
+
+1.Commercial uses
+  a.Attribution is required to be given somewhere  make sure it is visible for the users to see.
+  b.The Mod must have a licence text copy somewhere and cannot be changed
+  
+2.Personal Uses
+  a.if you want to use the code for person uses and the code for the mod will not be published the feel free to use 100% of the source code.
+  
+3.Distribution
+  a.the original mod must not be on any other website besides it offical pages unless number 4 is followed.
+  
+4.Modification
+  a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
+  b. the "more than 60% of the source code" quota you must not try and do some loopholes which include:
+    c.renaming the file names and code name in the file but the other source code is the same that does not count
+  
+5.Assets
+  All assets Provied are Under All Rights Reserved
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
