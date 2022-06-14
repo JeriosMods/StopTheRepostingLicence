@@ -18,6 +18,9 @@ This Licence follows the following conditions:
   a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
   b. the "more than 60% of the source code" quota you must not try and do some loopholes which include:
     c.renaming the file names and code name in the file but the other source code is the same that does not count
+    
+  d.Decompiling
+    e.You are not allowed to decompile the source code unless you get premission from the author
   
 5.Assets
   a.All assets Provied are Under All Rights Reserved.
