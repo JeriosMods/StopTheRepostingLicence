@@ -1,4 +1,4 @@
-# StopTheRepostingLicence
+StopTheRepostingLicence
 
 Copyright (c) 2022 Copyright Holder
 
@@ -20,7 +20,9 @@ This Licence follows the following conditions:
     c.renaming the file names and code name in the file but the other source code is the same that does not count
   
 5.Assets
-  All assets Provied are Under All Rights Reserved
+  a.All assets Provied are Under All Rights Reserved.
+  
+  
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
