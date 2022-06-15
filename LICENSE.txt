@@ -38,6 +38,11 @@ This Licence follows the following conditions:
   
 7.addons
   a.You may not make an addon for the mod
+  
+  
+8.Contributing
+  a.You may contribute to the mod
+  b.by submitting a pull request you give the mod author rights to use the code for the mod
 
   
   
