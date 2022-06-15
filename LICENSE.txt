@@ -13,17 +13,24 @@ This Licence follows the following conditions:
   
 3.Distribution
   a.the original mod must not be on any other website besides it offical pages unless number 4 is followed.
+  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge
+  c.if you are on the list at https://github.com/StopModReposts/Illegal-Mod-Sites/blob/master/lists/minecraft.yaml you do not get premission to make modpacks
   
 4.Modification
   a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
   b. the "more than 60% of the source code" quota you must not try and do some loopholes which include:
     c.renaming the file names and code name in the file but the other source code is the same that does not count
+    d.make a modpack containing less than 15 mods
     
   d.Decompiling
     e.You are not allowed to decompile the source code unless you get premission from the author
+    f.You may examine the sorce code but never publish it to the public
   
 5.Assets
   a.All assets Provied are Under All Rights Reserved.
+  
+  
+  6. banned users
   
   
 
