@@ -32,8 +32,18 @@ This Licence follows the following conditions:
   
   
   6. banned users
+    a.if you are on the list at https://api.stopmodreposts.org/sites.txt 
+    b-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+    
+  
+  7.addons
+  a.You may not make an addon for the mod
+  
+  8.Contibuting
+  a.
   
   
+LIABILITY:
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
