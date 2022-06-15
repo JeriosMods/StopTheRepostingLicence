@@ -31,16 +31,14 @@ This Licence follows the following conditions:
   a.All assets Provied are Under All Rights Reserved.
   
   
-  6. banned users
-    a.if you are on the list at https://api.stopmodreposts.org/sites.txt 
+6. banned users
+    a.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from my community
     b-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
     
   
-  7.addons
+7.addons
   a.You may not make an addon for the mod
-  
-  8.Contibuting
-  a.
+
   
   
 LIABILITY:
