@@ -13,37 +13,38 @@ This Licence follows the following conditions:
   
 3.Distribution
   a.the original mod must not be on any other website besides it offical pages unless number 4  is followed.
-  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge
-  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you do not get premission to make modpacks
-    c-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.
+  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you do not get premission to make modpacks.
+    c-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text.
+  d.you must never claim that you own the mod only the author(s) own it.
   
 4.Modification
   a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
   b. the "more than 60% of the source code" quota you must not try and do some loopholes which include:
-    c.renaming the file names and code name in the file but the other source code is the same that does not count
-    d.make a modpack containing less than 15 mods
+    c.renaming the file names and code name in the file but the other source code is the same that does not count.
+    d.make a modpack containing less than 15 mods.
     
   d.Decompiling
-    e.You are not allowed to decompile the source code unless you get premission from the author
-    f.You may examine the sorce code but never publish it to the public
+    e.You are not allowed to decompile the source code unless you get premission from the author.
+    f.You may examine the sorce code but never publish it to the public.
   
 5.Assets
   a.All assets Provied are Under All Rights Reserved.
   
   
 6. banned users
-    a.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from my community
-    b-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+    a.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from my community.
+    b-1.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
     
   
 7.addons
-  a.You may not make an addon for the mod
+  a.You may not make an addon for the mod.
   
   
 8.Contributing
   a.You may contribute to the mod
-  b.by submitting a pull request you give the mod author rights to use the code for the mod
-  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from contributing/compiling the mod
+  b.by submitting a pull request you give the mod author rights to use the code for the mod.
+  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from contributing/compiling the mod.
 
   
   
