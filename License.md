@@ -1,4 +1,4 @@
-#StopTheRepostingLicence
+# StopTheRepostingLicence
 <br>
 
 Copyright (c) 2022 Copyright Holder
@@ -12,8 +12,9 @@ This Licence follows the following conditions:
   c.you may sublicense the mod but only if you are the author you can do that<br>
 2.Personal Uses<br>
   a.if you want to use the code for person uses and the code for the mod will not be published(following Section 3 d) then feel free to use 100% of the source code.<br>
-  
+  <br>
 3.Distribution
+<br>
   a.the original mod must not be on any other website besides it offical pages unless number 4  is followed.<br>
   b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.<br>
   c.if you are on the list at https://api.stopmodreposts.org/sites.txt you do not get premission to make modpacks.<br>
